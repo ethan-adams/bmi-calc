@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import '../constants.dart';
 
 class SelectorCardChild extends StatelessWidget {
   final IconData inIcon;
